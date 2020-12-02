@@ -1,4 +1,8 @@
 <?php
+// crontab -e
+// * * * * * curl --silent http://localhost:8888/COMP0022-CW/timer_event.php
+// * * * * * sleep 30; curl --silent http://localhost:8888/COMP0022-CW/timer_event.php
+
 //Include PHP files referenced here
 include_once("sendEmail.php");
 include 'database.php';
