@@ -1,1 +1,8 @@
-# Auction-Group-5
+# Purpose
+This is a university project which aims to build an auction web application.
+
+# Languages
+- PHP
+- JavaScript
+- HTML/CSS
+- MySQL
